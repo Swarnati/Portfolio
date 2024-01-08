@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "In my portfolio, I showcase expertise in HTML CSS and JavaScript,Additionally, I demonstrate proficiency in React, emphasizing dynamic and efficient front-end development. My projects reflect a commitment to creating visually appealing, responsive, and user-friendly web experiences through the seamless integration of these technologies."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "In crafting UI/UX, I prioritize intuitive designs that seamlessly merge functionality with aesthetics. My approach blends user-centric principles, creating engaging interfaces that enhance overall user satisfaction and accessibility. Through meticulous attention to detail and a deep understanding of user behavior, I aim to elevate digital experiences, ensuring both form and function are seamlessly integrated."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "Wordpress",
+      "description": "With proficiency in WordPress, I bring expertise in crafting dynamic and scalable websites. My skill set encompasses theme customization, plugin integration, and content management, ensuring seamless user experiences. I excel in leveraging the versatility of WordPress to create visually appealing and functional websites, tailored to meet diverse project requirements. From responsive design to e-commerce solutions, my WordPress skills encompass a spectrum of capabilities, providing clients with a robust online presence that aligns with their goals."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src":"./img/placeholder-image.png",
+      "title": "Execute",
+      "description": "Website for Finance Advicing ",
+      "link": "https://finance-puce.vercel.app/"
+    }
+  ]
+  
+}
